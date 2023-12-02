@@ -1,2 +1,2 @@
-# terrafaorm-aws-autoscaling
- I am creating autoscaling on instance with desired capacity of 2.Instance will be attached to RDS and it will automate wordpress 
+# terrafaorm-aws-LB
+ I am attaching loadbalancer with wordpress site that is automated.
